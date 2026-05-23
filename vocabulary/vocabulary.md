@@ -23,7 +23,6 @@
 ### 3.1 计算机系统概述
 
 1. 中央处理单元（Center Processing Unit，CPU）【/ˈsentər ˈprəʊsesɪŋ ˈjuːnɪt/】
-2. 我好
 
 ### 3.2 存储器系统
 

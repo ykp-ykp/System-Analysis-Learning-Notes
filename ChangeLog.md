@@ -1,3 +1,15 @@
+## [2026-05-24] 重构 — 第3章笔记归入 3/ 子目录
+
+- 变更文件：
+  `studyNotes/3.1_计算机系统概述_备考笔记.md` → `studyNotes/3/3.1_计算机系统概述_备考笔记.md`、
+  `studyNotes/3.2_存储器系统_备考笔记.md` → `studyNotes/3/3.2_存储器系统_备考笔记.md`、
+  `studyNotes/3.3_输入输出系统_备考笔记.md` → `studyNotes/3/3.3_输入输出系统_备考笔记.md`、
+  `studyNotes/3.4_指令系统_备考笔记.md` → `studyNotes/3/3.4_指令系统_备考笔记.md`、
+  `studyNotes/3.5_多处理机系统_备考笔记.md` → `studyNotes/3/3.5_多处理机系统_备考笔记.md`、
+  `studyNotes/3.6_操作系统_备考笔记.md` → `studyNotes/3/3.6_操作系统_备考笔记.md`
+- 变更内容：将第3章6篇备考笔记从 studyNotes/ 根目录移至 studyNotes/3/ 子目录，按章节组织文件结构，便于后续章节笔记扩展。
+- 操作 Agent：Claude
+
 ## [2026-05-24] 新增 — 3.2～3.6 备考笔记（5篇）
 
 - 变更文件：

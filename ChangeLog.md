@@ -1,3 +1,15 @@
+## [2026-05-23] 重构 — 提取笔记模板至 references 并统一引用
+
+- 变更文件：
+  `.claude/skills/system-analyst-expert/SKILL.md`（修改）、
+  `.claude/skills/system-analyst-expert/references/note-template.md`（新增）、
+  `studyNotes/AGENTS.md`（修改）
+- 变更内容：
+  1. 将 SKILL.md 中内嵌的「输出格式」Markdown 模板提取为独立文件 `references/note-template.md`；
+  2. SKILL.md 的「输出格式」节改为引用 `references/note-template.md`；
+  3. `studyNotes/AGENTS.md` 的「正文结构建议」节同步引用同一模板文件，确保两处格式约束一致。
+- 操作 Agent：Codex
+
 ## [2026-05-23] 重构 — 完善规范继承与目录级规则
 
 - 变更文件：

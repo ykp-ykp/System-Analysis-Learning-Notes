@@ -22,17 +22,149 @@
 
 ### 3.1 计算机系统概述
 
-1. 中央处理单元（Center Processing Unit，CPU）【/ˈsentər ˈprəʊsesɪŋ ˈjuːnɪt/】
+1. **`中央处理单元`**（Central Processing Unit，CPU）【/ˌsentrəl ˈprəʊsesɪŋ ˈjuːnɪt/】
+2. **`固件`**（firmware）【/ˈfɜːmweə/】
 
 ### 3.2 存储器系统
 
+1. **`高速缓冲存储器`**（Cache）【/kæʃ/】
+2. **`主存储器`**（Main Memory）【/meɪn ˈmeməri/】
+3. **`随机存取存储器`**（Random Access Memory，RAM）【/ˈrændəm ˈækses ˈmeməri/】
+4. 只读存储器（Read-Only Memory，ROM）【/riːd ˈəʊnli ˈmeməri/】
+5. 动态随机存取存储器（Dynamic Random Access Memory，DRAM）【/daɪˈnæmɪk ˈrændəm ˈækses ˈmeməri/】
+6. 静态随机存取存储器（Static Random Access Memory，SRAM）【/ˈstætɪk ˈrændəm ˈækses ˈmeməri/】
+7. **`基本输入输出系统`**（Basic Input Output System，BIOS）【/ˈbeɪsɪk ˈɪnpʊt ˈaʊtpʊt ˈsɪstəm/】
+8. 硬盘驱动器（Hard Disk Drive，HDD）【/hɑːd dɪsk draɪv/】
+9. 固态硬盘（Solid State Drive，SSD）【/ˌsɒlɪd steɪt draɪv/】
+10. 混合固态硬盘（Solid State Hybrid Drive，SSHD）【/ˌsɒlɪd steɪt ˈhaɪbrɪd draɪv/】
+11. **`廉价磁盘冗余阵列`**（Redundant Array of Inexpensive Disks，RAID）【/rɪˈdʌndənt əˈreɪ əv ˌɪnɪkˈspensɪv dɪsks/】
+12. **`独立磁盘冗余阵列`**（Redundant Array of Independent Disks，RAID）【/rɪˈdʌndənt əˈreɪ əv ˌɪndɪˈpendənt dɪsks/】
+13. 只读光盘存储器（Compact Disc Read-Only Memory，CD-ROM）【/kəmˈpækt dɪsk riːd ˈəʊnli ˈmeməri/】
+14. 可记录光盘（Compact Disc Recordable，CD-R）【/kəmˈpækt dɪsk rɪˈkɔːdəbl/】
+15. 可重写光盘（Compact Disc Rewritable，CD-RW）【/kəmˈpækt dɪsk riːˈraɪtəbl/】
+16. 只读数字多功能光盘（Digital Versatile Disc Read-Only Memory，DVD-ROM）【/ˈdɪdʒɪtl ˈvɜːsətaɪl dɪsk riːd ˈəʊnli ˈmeməri/】
+17. 一次写入多次读取（Write Once Read Many，WORM）【/raɪt wʌns riːd ˈmeni/】
+18. **`写直达`**（Write Through）【/raɪt θruː/】
+19. **`写回`**（Write Back）【/raɪt bæk/】
+20. **`直接附加存储`**（Direct Attached Storage，DAS）【/dəˈrekt əˈtætʃt ˈstɔːrɪdʒ/】
+21. 服务器附加存储（Server Attached Storage，SAS）【/ˈsɜːvə əˈtætʃt ˈstɔːrɪdʒ/】
+22. **`网络附加存储`**（Network Attached Storage，NAS）【/ˈnetwɜːk əˈtætʃt ˈstɔːrɪdʒ/】
+23. **`存储区域网络`**（Storage Area Network，SAN）【/ˈstɔːrɪdʒ ˈeəriə ˈnetwɜːk/】
+24. 小型计算机系统接口（Small Computer System Interface，SCSI）【/smɔːl kəmˈpjuːtə ˈsɪstəm ˈɪntəfeɪs/】
+25. 网络文件系统（Net File System，NFS）【/net faɪl ˈsɪstəm/】
+26. 公共互联网文件系统（Common Internet File System，CIFS）【/ˈkɒmən ˈɪntənet faɪl ˈsɪstəm/】
+27. 光纤通道（Fiber Channel，FC）【/ˈfaɪbə ˈtʃænəl/】
+28. 光纤通道存储区域网络（FC SAN）【/ˌef ˈsiː sæn/】
+29. IP存储区域网络（IP SAN）【/ˌaɪ ˈpiː sæn/】
+30. 因特网小型计算机系统接口（Internet Small Computer System Interface，iSCSI）【/ˌaɪ ˈskʌzi/】
+31. 无限带宽架构（InfiniBand，IB）【/ɪnˈfɪnibænd/】
+32. IB存储区域网络（IB SAN）【/ˌaɪ ˈbiː sæn/】
+33. 互联网协议第6版（Internet Protocol Version 6，IPv6）【/ˈɪntənet ˈprəʊtəkɒl ˈvɜːʃn sɪks/】
+34. 主机通道适配器（Host Channel Adapter，HCA）【/həʊst ˈtʃænəl əˈdæptə/】
+35. 目标通道适配器（Target Channel Adapter，TCA）【/ˈtɑːɡɪt ˈtʃænəl əˈdæptə/】
+36. **`虚拟存储`**（Virtual Storage）【/ˈvɜːtʃuəl ˈstɔːrɪdʒ/】
+37. 存储池（Storage Pool）【/ˈstɔːrɪdʒ puːl/】
+
 ### 3.3 输入输出系统
+
+1. **`输入/输出`**（Input/Output，I/O）【/ˈɪnpʊt ˈaʊtpʊt/】
+2. **`直接内存访问`**（Direct Memory Access，DMA）【/dəˈrekt ˈmeməri ˈækses/】
+3. 直接内存访问控制器（Direct Memory Access Controller，DMAC）【/dəˈrekt ˈmeməri ˈækses kənˈtrəʊlə/】
+4. 算术逻辑单元（Arithmetic Logic Unit，ALU）【/əˈrɪθmətɪk ˈlɒdʒɪk ˈjuːnɪt/】
+5. 工业标准体系结构（Industrial Standard Architecture，ISA）【/ɪnˈdʌstriəl ˈstændəd ˈɑːkɪtektʃə/】
+6. 微通道体系结构（Micro Channel Architecture，MCA）【/ˈmaɪkrəʊ ˈtʃænəl ˈɑːkɪtektʃə/】
+7. 视频电子标准协会（Video Electronics Standards Association，VESA）【/ˈvɪdiəʊ ɪˌlekˈtrɒnɪks ˈstændədz əˌsəʊsiˈeɪʃn/】
+8. 加速图形接口（Accelerated Graphics Port，AGP）【/əkˈseləreɪtɪd ˈɡræfɪks pɔːt/】
+9. 电气和电子工程师协会（Institute of Electrical and Electronics Engineers，IEEE）【/ˈɪnstɪtjuːt əv ɪˈlektrɪkl ænd ɪˌlekˈtrɒnɪks ˌendʒɪˈnɪəz/】
+10. 外设组件互连（Peripheral Component Interconnect，PCI）【/pəˈrɪfərəl kəmˈpəʊnənt ˌɪntəkəˈnekt/】
+11. 集成驱动电子设备接口（Integrated Drive Electronics，IDE）【/ˈɪntɪɡreɪtɪd draɪv ɪˌlekˈtrɒnɪks/】
+12. 增强型集成驱动电子设备接口（Enhanced Integrated Drive Electronics，EIDE）【/ɪnˈhɑːnst ˈɪntɪɡreɪtɪd draɪv ɪˌlekˈtrɒnɪks/】
+13. 高级技术附件接口（Advanced Technology Attachment，ATA）【/ədˈvɑːnst tekˈnɒlədʒi əˈtætʃmənt/】
+14. 串行高级技术附件接口（Serial Advanced Technology Attachment，SATA）【/ˈsɪəriəl ədˈvɑːnst tekˈnɒlədʒi əˈtætʃmənt/】
+15. 外置串行高级技术附件接口（External Serial Advanced Technology Attachment，eSATA）【/ɪkˈstɜːnl ˈsɪəriəl ədˈvɑːnst tekˈnɒlədʒi əˈtætʃmənt/】
+16. 小型计算机系统接口（Small Computer System Interface，SCSI）【/smɔːl kəmˈpjuːtə ˈsɪstəm ˈɪntəfeɪs/】
+17. 个人计算机内存卡国际协会（Personal Computer Memory Card International Association，PCMCIA）【/ˈpɜːsənl kəmˈpjuːtə ˈmeməri kɑːd ˌɪntəˈnæʃnəl əˌsəʊsiˈeɪʃn/】
+18. PC卡（PC Card）【/ˌpiː ˈsiː kɑːd/】
+19. IEEE 1394接口（IEEE 1394）【/ˌaɪ trɪpl ˈiː wʌn θriː nɔː faɪv/】
+20. i.Link接口（i.Link）【/ˈaɪ lɪŋk/】
+21. 火线接口（FireWire）【/ˈfaɪəwaɪə/】
+22. FireWire 800接口（FireWire 800）【/ˈfaɪəwaɪə eɪt ˈhʌndrəd/】
+23. FireWire 3200接口（FireWire 3200）【/ˈfaɪəwaɪə θriː ˈθaʊzənd tuː ˈhʌndrəd/】
+24. **`通用串行总线`**（Universal Serial Bus，USB）【/ˌjuːnɪˈvɜːsl ˈsɪəriəl bʌs/】
 
 ### 3.4 指令系统
 
+1. **`复杂指令系统计算机`**（Complex Instruction Set Computer，CISC）【/ˈkɒmpleks ɪnˈstrʌkʃn set kəmˈpjuːtə/】
+2. Lisp程序设计语言（LISP）【/lɪsp/】
+3. PROLOG逻辑程序设计语言（PROLOG）【/ˈprəʊlɒɡ/】
+4. 超大规模集成电路（Very Large Scale Integration，VLSI）【/ˈveri lɑːdʒ skeɪl ˌɪntɪˈɡreɪʃn/】
+5. **`精简指令系统计算机`**（Reduced Instruction Set Computer，RISC）【/rɪˈdjuːst ɪnˈstrʌkʃn set kəmˈpjuːtə/】
+6. **`装载指令`**（LOAD）【/ləʊd/】
+7. **`存储指令`**（STORE）【/stɔː/】
+8. **`装载/存储结构`**（LOAD/STORE）【/ləʊd stɔː/】
+9. 高速缓存（Cache）【/kæʃ/】
+10. **`每条指令平均周期数`**（Cycles Per Instruction，CPI）【/ˈsaɪklz pər ɪnˈstrʌkʃn/】
+
 ### 3.5 多处理机系统
 
+1. **`多指令多数据流`**（Multiple Instruction Multiple Data，MIMD）【/ˈmʌltɪpl ɪnˈstrʌkʃn ˈmʌltɪpl ˈdeɪtə/】
+2. 多处理机（Multi Processor）【/ˈmʌlti ˈprəʊsesə/】
+3. **`单指令多数据流`**（Single Instruction Multiple Data，SIMD）【/ˈsɪŋɡl ɪnˈstrʌkʃn ˈmʌltɪpl ˈdeɪtə/】
+4. **`共享存储器`**（Shared Memory，SM）【/ʃeəd ˈmeməri/】
+5. **`对称多处理机`**（Symmetric Multi-Processor，SMP）【/sɪˈmetrɪk ˈmʌlti ˈprəʊsesə/】
+6. 局部存储器（Local Memory，LM）【/ˈləʊkl ˈmeməri/】
+7. **`海量并行处理机`**（Massively Parallel Processor，MPP）【/ˈmæsɪvli ˈpærəlel ˈprəʊsesə/】
+8. 超大规模集成电路（Very Large Scale Integrated Circuits，VLSIC）【/ˈveri lɑːdʒ skeɪl ˈɪntɪɡreɪtɪd ˈsɜːkɪts/】
+9. **`共享虚拟存储器`**（Shared Virtual Memory，SVM）【/ʃeəd ˈvɜːtʃuəl ˈmeməri/】
+10. **`分布式共享存储器`**（Distributed Shared Memory，DSM）【/dɪˈstrɪbjətɪd ʃeəd ˈmeməri/】
+11. 进程迁移（Process Migration）【/ˈprəʊses maɪˈɡreɪʃn/】
+12. **`均匀存储器访问`**（Uniform Memory Access，UMA）【/ˈjuːnɪfɔːm ˈmeməri ˈækses/】
+13. **`非均匀存储器访问`**（Nonuniform Memory Access，NUMA）【/ˌnɒnˈjuːnɪfɔːm ˈmeməri ˈækses/】
+14. **`纯高速缓存存储体系结构`**（Cache Only Memory Architecture，COMA）【/kæʃ ˈəʊnli ˈmeməri ˈɑːkɪtektʃə/】
+15. **`可扩展共享存储多处理机`**（Scalable Shared Memory Multi-Processing，S2MP）【/ˈskeɪləbl ʃeəd ˈmeməri ˈmʌlti ˈprəʊsesɪŋ/】
+16. 均匀洗牌置换（Shuffle）【/ˈʃʌfl/】
+
 ### 3.6 操作系统
+
+1. **`操作系统`**（Operating System，OS）【/ˈɒpəreɪtɪŋ ˈsɪstəm/】
+2. 输入/输出（Input/Output，I/O）【/ˈɪnpʊt ˈaʊtpʊt/】
+3. **`实时操作系统`**（Real Time Operating System，RTOS）【/rɪəl taɪm ˈɒpəreɪtɪŋ ˈsɪstəm/】
+4. 局域网（Local Area Network，LAN）【/ˈləʊkl ˈeəriə ˈnetwɜːk/】
+5. 客户端/服务器模式（Client/Server）【/ˈklaɪənt ˈsɜːvə/】
+6. 对等模式（Peer-to-Peer，P2P）【/pɪə tu pɪə/】
+7. 硬件抽象层（Hardware Abstraction Layer，HAL）【/ˈhɑːdweə æbˈstrækʃn ˈleɪə/】
+8. 板级支撑包（Board Support Package，BSP）【/bɔːd səˈpɔːt ˈpækɪdʒ/】
+9. **`进程控制块`**（Process Control Block，PCB）【/ˈprəʊses kənˈtrəʊl blɒk/】
+10. **`信号量`**（Semaphore）【/ˈseməfɔː/】
+11. **`互斥信号量`**（Mutual Exclusion Semaphore，mutex）【/ˈmjuːtʃuəl ɪkˈskluːʒn ˈseməfɔː/】
+12. 管道文件（Pipe File）【/paɪp faɪl/】
+13. **`轻型进程`**（Light-Weight Process，LWP）【/laɪt weɪt ˈprəʊses/】
+14. **`用户级线程`**（User-Level Threads）【/ˈjuːzə ˈlevl θredz/】
+15. **`内核支持线程`**（Kernel-Supported Threads）【/ˈkɜːnl səˈpɔːtɪd θredz/】
+16. **`先进先出置换算法`**（First-In First-Out，FIFO）【/fɜːst ɪn fɜːst aʊt/】
+17. **`最近最少使用置换算法`**（Least Recently Used，LRU）【/liːst ˈriːsntli juːzd/】
+18. **`最近未用置换算法`**（Not Used Recently，NUR）【/nɒt juːzd ˈriːsntli/】
+19. **`最佳置换算法`**（Optimal）【/ˈɒptɪməl/】
+20. **`抖动/颠簸`**（Thrashing）【/ˈθræʃɪŋ/】
+21. **`Belady 异常现象`**（Belady Anomaly）【/Belady əˈnɒməli/】
+22. **`直接内存访问`**（Direct Memory Access，DMA）【/dəˈrekt ˈmeməri ˈækses/】
+23. **`外围设备联机操作`**（Simultaneous Peripheral Operations On Line，SPOOLing）【/ˌsɪmlˈteɪniəs pəˈrɪfərəl ˌɒpəˈreɪʃnz ɒn laɪn/】
+24. **`先来先服务`**（First-Come First-Served，FCFS）【/fɜːst kʌm fɜːst sɜːvd/】
+25. **`最短寻道时间优先`**（Shortest Seek Time First，SSTF）【/ˈʃɔːtɪst siːk taɪm fɜːst/】
+26. **`扫描算法`**（Scanning Algorithm，SCAN）【/ˈskænɪŋ ˈælɡərɪðəm/】
+27. **`单向扫描调度算法`**（Circular SCAN，CSCAN）【/ˈsɜːkjələ skæn/】
+28. **`索引节点`**（Index Node，inode）【/ˈɪndeks nəʊd/】
+29. 绝对路径名（Absolute Path Name）【/ˈæbsəluːt pɑːθ neɪm/】
+30. **`位示图`**（Bitmap）【/ˈbɪtmæp/】
+31. 磁盘分配表（Disk Allocation Table）【/dɪsk ˌæləˈkeɪʃn ˈteɪbl/】
+32. 作业控制语言（Job Control Language，JCL）【/dʒɒb kənˈtrəʊl ˈlæŋɡwɪdʒ/】
+33. **`作业控制块`**（Job Control Block，JCB）【/dʒɒb kənˈtrəʊl blɒk/】
+34. 用户界面（User Interface）【/ˈjuːzə ˈɪntəfeɪs/】
+35. 银河麒麟（Kylin OS）【/Kylin ˌəʊ ˈes/】
+36. 深度操作系统（deepin）【/ˈdiːpɪn/】
+37. 深度桌面环境（Deepin Desktop Environment，DDE）【/ˈdiːpɪn ˈdesktɒp ɪnˈvaɪrənmənt/】
+38. 统信操作系统（Unity Operating System，UOS）【/ˈjuːnəti ˈɒpəreɪtɪŋ ˈsɪstəm/】
+39. 高可用性（High Availability，HA）【/haɪ əˌveɪləˈbɪləti/】
 
 ## 第4章 计算机网络与分布式系统
 

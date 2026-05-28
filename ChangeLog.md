@@ -1,3 +1,11 @@
+## [2026-05-28] 新增 — 每日系统分析知识点背诵状态
+
+- 变更文件：
+  `notebookLM/flashcards/.flashcard-delivery-state.json`、
+  `ChangeLog.md`
+- 变更内容：首次执行每日系统分析知识点背诵自动化，从 NotebookLM 闪卡 CSV 中随机抽取 10 条知识点并发送到当前连接 Gmail 账号；新增发送状态文件，用于记录当天 selected_ids、章节、来源文件、主题和发送时间，避免同日重复发送。
+- 操作 Agent：Codex
+
 ## [2026-05-28] 新增 — 第3、4章 NotebookLM 闪卡 CSV
 
 - 变更文件：

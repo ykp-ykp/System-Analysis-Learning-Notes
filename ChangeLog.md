@@ -1,3 +1,16 @@
+## [2026-05-28] 新增 — 第3、4章 NotebookLM 闪卡 CSV
+
+- 变更文件：
+  `notebookLM/flashcards/3/3.1 计算机系统概述.csv`、
+  `notebookLM/flashcards/3/3.2 存储器系统.csv`、
+  `notebookLM/flashcards/3/3.3 输入输出系统.csv`、
+  `notebookLM/flashcards/3/3.4 指令系统.csv`、
+  `notebookLM/flashcards/4/4.1 计算机网络基础.csv`、
+  `notebookLM/flashcards/4/4.2 网络体系结构与协议.csv`、
+  `ChangeLog.md`
+- 变更内容：新增第3章计算机系统相关4个小节与第4章网络相关2个小节的 NotebookLM 闪卡 CSV，便于后续导入和复习使用；同步在变更日志顶部记录本次新增内容。
+- 操作 Agent：Codex
+
 ## [2026-05-27] 新增 — 补充PDF文件
 操作 烩面
 
